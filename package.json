@@ -1,0 +1,33 @@
+{
+  "name": "ead-api",
+  "version": "0.0.1",
+  "description": "API da plataforma de ensino à distância.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaimersoncorreia/ead-api.git"
+  },
+  "keywords": [
+    "plataforma",
+    "EAD",
+    "programador",
+    "a",
+    "bordo"
+  ],
+  "author": "Jaimerson Correia dos Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaimersoncorreia/ead-api/issues"
+  },
+  "homepage": "https://github.com/jaimersoncorreia/ead-api#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^18.4.0"
+  }
+}
